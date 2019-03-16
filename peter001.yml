@@ -1,0 +1,7 @@
+- name: Hello Sample from git to Peter
+  hosts: all
+  tasks:
+    - name: Hello Peter
+      debug:
+        msg: "Hello Peter! Greetings from git"
+
