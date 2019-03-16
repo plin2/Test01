@@ -3,5 +3,5 @@
   tasks:
     - name: Hello Peter
       debug:
-        msg: "Hello Peter! Greetings from git"
+        msg: "Hello Peter! Greetings from git#2"
 
